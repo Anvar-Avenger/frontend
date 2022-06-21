@@ -20,9 +20,9 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "icons/splashTaxi.png": "3329891997446ecef81f90485d0f4a57",
-"index.html": "2a2af5529ce430eeffe76a382dbd380c",
-"/": "2a2af5529ce430eeffe76a382dbd380c",
-"main.dart.js": "b0b88b46663eb9bbd411495c60c46d09",
+"index.html": "d1710595e0cdfcdc5c8e7e82ae6d8485",
+"/": "d1710595e0cdfcdc5c8e7e82ae6d8485",
+"main.dart.js": "2264a718104dab580a022d3513978346",
 "manifest.json": "0a9c13527516071eabee753469e3dcef",
 "version.json": "68d0a7c78c77dc8582dae95a8ecd9477"
 };
