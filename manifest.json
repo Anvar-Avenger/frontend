@@ -1,6 +1,6 @@
 {
-    "name": "lider_taxi_admin_panel",
-    "short_name": "lider_taxi_admin_panel",
+    "name": "lider_taxi_operator",
+    "short_name": "lider_taxi_operator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
